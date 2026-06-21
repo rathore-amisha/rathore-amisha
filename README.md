@@ -14,3 +14,162 @@
 [![](https://komarev.com/ghpvc/?username=rathore-amisha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+# ✨ Hey there, I'm Your Name ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Learner;Building+Cool+Things;Open+Source+Explorer" />
+
+---
+
+### 🚀 Turning ideas into code & coffee into projects
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 🌌 About Me
+
+```yaml
+Name: Your Name
+Location: Earth 🌍
+Role: Full Stack Developer
+Learning: MERN + DSA + System Design
+Current Goal: Crack placements & build projects
+Fun Fact: I debug more than I code 😭
+```
+
+---
+
+## ⚡ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,cpp,python,html,css" />
+</p>
+
+### 🧠 Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
+</p>
+
+### 🛢 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Solved 500+ DSA Questions *(edit later)*  
+🚀 Built 15+ Projects *(edit later)*  
+🌱 Learning Every Single Day  
+🎯 Goal → Become Industry Ready
+
+---
+
+# 🌠 Featured Projects
+
+### 🚀 TradeHub
+Stock market dashboard inspired project.
+
+### 🎨 Portfolio Website
+Personal website with animations.
+
+### 💬 Real Time Chat App
+Socket based chat application.
+
+### 📚 DSA Journey
+My coding practice and notes.
+
+---
+
+# 📌 Current Focus
+
+```txt
+☑ Full Stack Development
+☑ Data Structures & Algorithms
+☑ Open Source
+☑ System Design
+☑ Placement Preparation
+```
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:youremail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Build. Learn. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,100:7B61FF&section=footer"/>
+
+</div>
