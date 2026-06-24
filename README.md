@@ -81,7 +81,7 @@ Fun Fact: I debug more than I code 😭
 ☑ Full Stack Development
 ☑ Data Structures & Algorithms
 ☑ Open Source
-☑ System Design
+☑ exploring Ai/Ml
 ☑ Placement Preparation
 ```
 
